@@ -32,7 +32,7 @@ export default class App extends React.Component {
                     </div>
                     <div style={{"display": "inline-block", "paddingLeft": "20px"}}>
                             <h5 className="name">YUXING SHI</h5>
-                            <p className="text"><IoSchoolOutline/ > First year Computer Science graduate @Rice University</p>
+                            <p className="text"><IoSchoolOutline/ > Computer Science graduate @Rice Univ.</p>
                             <p className="text"><IoLocationOutline/ > Houston, Texas</p>
                         <p style={{"font-size": 18}}>Web Development: <span className="tag">Full Stack</span> <span className="tag">MongoDB</span> <span className="tag">Express</span> <span className="tag">React</span> <span className="tag">Node.js</span></p>
                         <p style={{"font-size": 18}}>Computer Graphics: <span className="tag">C#</span> <span className="tag">Unity3D</span> <span className="tag">Physical Simulation</span> </p>
@@ -50,15 +50,16 @@ export default class App extends React.Component {
                     implemented by React. I do have implemented some apps like RiceBook, which is inspired by Facebook, using MERN stack.
                     Also, I am interested in Computer Graphics and think it amazing to skillfully and beautifully cast objects on screens!
                     After years of learning, I have surely gained the basic Computer Science fundamentions like
-                    computer architectures, computer networks and so on. Some works can be checked in <a href="/projects/" style={{"color": "black", "font-weight": "bold"}}>Projects</a>!
+                    computer architectures, computer networks and so on. Some works can be checked in <a href="/projects" style={{"color": "black", "font-weight": "bold"}}>Projects</a>!
                 </p>
                 <p className="text">
-                    By the way, I am an amateur photographer and digital painter, and some artworks are listed in <a href="/projects/" style={{"color": "black", "font-weight": "bold"}}>Arts</a>.
+                    By the way, I am an amateur photographer and digital painter, and some artworks are listed in <a href="/arts" style={{"color": "black", "font-weight": "bold"}}>Arts</a>.
                     For the aesthetic reason, the current avatar is not my work and I have already put the artist's name. Hopefully I will
                     replace that in the near future.
                 </p>
             </div>
             <p style={{display: "flex", justifyContent: "center",alignItems: "center"}}>&copy; 2021 Yuxing Shi</p>
+            <p style={{display: "flex", justifyContent: "center",alignItems: "center"}}><a href="https://github.com/yxshi610/yesfir-website" style={{"color": "black", "font-weight": "bold"}}>GitHub Repo</a></p>
       </div>
     );
   }
