@@ -15,8 +15,8 @@ export default class Projects extends React.Component {
         return (
             <div className="topnav" id="myTopnav">
                 <a href="/" className="inactive">Home</a>
-                <a href="/projects" className="active">Projects</a>
-                <a href="/arts" className="inactive">Arts</a>
+                <a href="/projects" className="inactive">Projects</a>
+                <a href="/arts" className="active">Arts</a>
                 <a className="icon" onClick={ this.myFunction }>&#9776;</a>
             </div>
         );

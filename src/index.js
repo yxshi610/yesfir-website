@@ -5,6 +5,7 @@ import {BrowserRouter, Route, Routes} from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import App from "./App";
 import Projects from "./Projects";
+import Arts from "./Arts";
 import "./styles/global.css";
 
 ReactDOM.render(
@@ -13,6 +14,7 @@ ReactDOM.render(
           <Routes>
               <Route path="/" element={ <App/> } />
               <Route path="/projects" element={ <Projects/> } />
+              <Route path="/arts" element={ <Arts/> } />
           </Routes>
       </BrowserRouter>
   </React.StrictMode>,
