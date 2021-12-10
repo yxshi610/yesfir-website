@@ -13,11 +13,13 @@ export default class Projects extends React.Component {
 
     render() {
         return (
-            <div className="topnav" id="myTopnav">
-                <a href="/" className="inactive">Home</a>
-                <a href="/projects" className="active">Projects</a>
-                <a href="/arts" className="inactive">Arts</a>
-                <a className="icon" onClick={ this.myFunction }>&#9776;</a>
+            <div style={{"max-width": 1280, "margin": "auto"}}>
+                <div className="topnav" id="myTopnav" >
+                    <a href="/" className="inactive">Home</a>
+                    <a href="/projects" className="active">Projects</a>
+                    <a href="/arts" className="inactive">Arts</a>
+                    <a className="icon" onClick={ this.myFunction }>&#9776;</a>
+                </div>
             </div>
         );
     }
