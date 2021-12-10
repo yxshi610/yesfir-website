@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c876d9c0-28d7-49da-9802-c9f0b8ccc046" name="Changes" comment="a new version.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +58,7 @@
       <workItem from="1637796186484" duration="681000" />
       <workItem from="1637797107638" duration="2406000" />
       <workItem from="1639081810118" duration="8911000" />
-      <workItem from="1639103481919" duration="513000" />
+      <workItem from="1639103481919" duration="680000" />
     </task>
     <task id="LOCAL-00001" summary="add profile">
       <created>1637799521995</created>
