@@ -3,9 +3,9 @@ import ReactDOM from 'react-dom';
 import reportWebVitals from './reportWebVitals';
 import {BrowserRouter, Route, Routes} from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import App from "./App";
-import Projects from "./Projects";
-import Arts from "./Arts";
+import App from "./pages/App";
+import Projects from "./pages/Projects";
+import Arts from "./pages/Arts";
 import "./styles/global.css";
 
 ReactDOM.render(
