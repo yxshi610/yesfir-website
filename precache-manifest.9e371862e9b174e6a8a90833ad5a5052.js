@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e32f2097cf728324f20f",
+    "revision": "c85197819451b81d735f",
     "url": "/yesfir-website/static/css/main.664cc0a1.chunk.css"
   },
   {
-    "revision": "e32f2097cf728324f20f",
-    "url": "/yesfir-website/static/js/main.d976764a.chunk.js"
+    "revision": "c85197819451b81d735f",
+    "url": "/yesfir-website/static/js/main.2193630b.chunk.js"
   },
   {
     "revision": "c3a0108ebccdb98f4b0f",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/yesfir-website/static/media/p4.b8406b21.png"
   },
   {
-    "revision": "f542e9ff4d862dd7ffe9cf6f11a5f3f1",
+    "revision": "2ac21797b284169b10dee24931448cbd",
     "url": "/yesfir-website/index.html"
   }
 ];
