@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/yesfir-website/static/media/p4.b8406b21.png"
   },
   {
-    "revision": "fc77fc4ad58280269bd8fcbc84bf9aec",
+    "revision": "da23dc270da09ce65992b9ea4c1faab1",
     "url": "/yesfir-website/index.html"
   }
 ];

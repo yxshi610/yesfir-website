@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/yesfir-website/precache-manifest.48e815e2a7b7672af1f5cd27e19fac4e.js"
+  "/yesfir-website/precache-manifest.ccea20b4a49dfcb017be0baa963f5160.js"
 );
 
 workbox.clientsClaim();
