@@ -1,16 +1,22 @@
 {
-  "files": {
-    "main.css": "/yesfir-website/static/css/main.1a8e827b.css",
-    "main.js": "/yesfir-website/static/js/main.a87b8b17.js",
-    "static/js/787.93095b39.chunk.js": "/yesfir-website/static/js/787.93095b39.chunk.js",
-    "static/media/avatar.png": "/yesfir-website/static/media/avatar.8d7f6aed5f5527938979.png",
-    "index.html": "/yesfir-website/index.html",
-    "main.1a8e827b.css.map": "/yesfir-website/static/css/main.1a8e827b.css.map",
-    "main.a87b8b17.js.map": "/yesfir-website/static/js/main.a87b8b17.js.map",
-    "787.93095b39.chunk.js.map": "/yesfir-website/static/js/787.93095b39.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.1a8e827b.css",
-    "static/js/main.a87b8b17.js"
-  ]
+  "main.css": "/yesfir-website/static/css/main.664cc0a1.chunk.css",
+  "main.js": "/yesfir-website/static/js/main.d976764a.chunk.js",
+  "main.js.map": "/yesfir-website/static/js/main.d976764a.chunk.js.map",
+  "runtime~main.js": "/yesfir-website/static/js/runtime~main.44caf4e7.js",
+  "runtime~main.js.map": "/yesfir-website/static/js/runtime~main.44caf4e7.js.map",
+  "static/css/2.1314754b.chunk.css": "/yesfir-website/static/css/2.1314754b.chunk.css",
+  "static/js/2.e6ba4427.chunk.js": "/yesfir-website/static/js/2.e6ba4427.chunk.js",
+  "static/js/2.e6ba4427.chunk.js.map": "/yesfir-website/static/js/2.e6ba4427.chunk.js.map",
+  "static/js/3.e2279214.chunk.js": "/yesfir-website/static/js/3.e2279214.chunk.js",
+  "static/js/3.e2279214.chunk.js.map": "/yesfir-website/static/js/3.e2279214.chunk.js.map",
+  "index.html": "/yesfir-website/index.html",
+  "precache-manifest.14d7856de45869e78a171b3160f67c2a.js": "/yesfir-website/precache-manifest.14d7856de45869e78a171b3160f67c2a.js",
+  "service-worker.js": "/yesfir-website/service-worker.js",
+  "static/css/2.1314754b.chunk.css.map": "/yesfir-website/static/css/2.1314754b.chunk.css.map",
+  "static/css/main.664cc0a1.chunk.css.map": "/yesfir-website/static/css/main.664cc0a1.chunk.css.map",
+  "static/media/avatar.png": "/yesfir-website/static/media/avatar.3f3b24fc.png",
+  "static/media/p0.png": "/yesfir-website/static/media/p0.d1c7076a.png",
+  "static/media/p1.png": "/yesfir-website/static/media/p1.010b121f.png",
+  "static/media/p2.png": "/yesfir-website/static/media/p2.3c896815.png",
+  "static/media/p4.png": "/yesfir-website/static/media/p4.b8406b21.png"
 }
