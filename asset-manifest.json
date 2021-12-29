@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/yesfir-website/static/css/main.073c9b0a.css",
-    "main.js": "/yesfir-website/static/js/main.041797b8.js",
+    "main.css": "/yesfir-website/static/css/main.1a8e827b.css",
+    "main.js": "/yesfir-website/static/js/main.30b8d941.js",
     "static/js/787.93095b39.chunk.js": "/yesfir-website/static/js/787.93095b39.chunk.js",
-    "static/media/logo.svg": "/yesfir-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/avatar.png": "/yesfir-website/static/media/avatar.8d7f6aed5f5527938979.png",
     "index.html": "/yesfir-website/index.html",
-    "main.073c9b0a.css.map": "/yesfir-website/static/css/main.073c9b0a.css.map",
-    "main.041797b8.js.map": "/yesfir-website/static/js/main.041797b8.js.map",
+    "main.1a8e827b.css.map": "/yesfir-website/static/css/main.1a8e827b.css.map",
+    "main.30b8d941.js.map": "/yesfir-website/static/js/main.30b8d941.js.map",
     "787.93095b39.chunk.js.map": "/yesfir-website/static/js/787.93095b39.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.041797b8.js"
+    "static/css/main.1a8e827b.css",
+    "static/js/main.30b8d941.js"
   ]
 }
